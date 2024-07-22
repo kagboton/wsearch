@@ -11,5 +11,8 @@ import { SearchBarComponent } from './search-bar/search-bar.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'wsearch';
+  onTerm(term: string) {
+    console.log('search term :', term)
+
+  }
 }
