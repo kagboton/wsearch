@@ -1,5 +1,12 @@
 # Wsearch
 
+Wsearch application build with angular. The application is my hand on practice from Stephen Grider Angular Udemy course (section 13 - Handling Data and HTTP Requests) : https://www.udemy.com/course/the-modern-angular-bootcamp/
+
+What we've done so far :
+- child to parent communication
+- worked with services
+- 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
